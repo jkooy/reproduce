@@ -1,0 +1,571 @@
+precision, recall, F1, acc= 
+0.8
+1.0
+0.888888888888889
+0.8
+precision, recall, F1, acc= 
+0.8
+1.0
+0.888888888888889
+0.8
+precision, recall, F1, acc= 
+0.8
+1.0
+0.888888888888889
+0.8
+precision, recall, F1, acc= 
+0.7894736842105263
+0.9375
+0.8571428571428572
+0.75
+precision, recall, F1, acc= 
+0.7894736842105263
+0.9375
+0.8571428571428572
+0.75
+precision, recall, F1, acc= 
+0.7894736842105263
+0.9375
+0.8571428571428572
+0.75
+precision, recall, F1, acc= 
+0.7894736842105263
+0.9375
+0.8571428571428572
+0.75
+precision, recall, F1, acc= 
+0.8333333333333334
+0.9375
+0.8823529411764706
+0.8
+precision, recall, F1, acc= 
+0.8333333333333334
+0.9375
+0.8823529411764706
+0.8
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+
+ The epoch is 10, average recall: 0.9563, average precision: 0.8107,average F1: 0.8775, average accuracy: 0.7850, average AUC: 0.5281precision, recall, F1, acc= 
+0.8333333333333334
+0.9375
+0.8823529411764706
+0.8
+precision, recall, F1, acc= 
+0.9285714285714286
+0.8125
+0.8666666666666666
+0.8
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8333333333333334
+0.9375
+0.8823529411764706
+0.8
+precision, recall, F1, acc= 
+0.8421052631578947
+1.0
+0.9142857142857143
+0.85
+precision, recall, F1, acc= 
+0.9375
+0.9375
+0.9375
+0.9
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+precision, recall, F1, acc= 
+0.8421052631578947
+1.0
+0.9142857142857143
+0.85
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+
+ The epoch is 20, average recall: 0.9437, average precision: 0.8753,average F1: 0.9082, average accuracy: 0.8450, average AUC: 0.6969precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.9333333333333333
+0.875
+0.9032258064516129
+0.85
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+precision, recall, F1, acc= 
+0.9375
+0.9375
+0.9375
+0.9
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8333333333333334
+0.9375
+0.8823529411764706
+0.8
+
+ The epoch is 30, average recall: 0.9625, average precision: 0.8913,average F1: 0.9255, average accuracy: 0.8750, average AUC: 0.7438precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+precision, recall, F1, acc= 
+0.875
+0.875
+0.875
+0.8
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.9285714285714286
+0.8125
+0.8666666666666666
+0.8
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+
+ The epoch is 40, average recall: 0.9563, average precision: 0.9058,average F1: 0.9304, average accuracy: 0.8850, average AUC: 0.7781precision, recall, F1, acc= 
+0.9375
+0.9375
+0.9375
+0.9
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.9375
+0.9375
+0.9375
+0.9
+precision, recall, F1, acc= 
+0.9375
+0.9375
+0.9375
+0.9
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+
+ The epoch is 50, average recall: 0.9812, average precision: 0.9244,average F1: 0.9520, average accuracy: 0.9200, average AUC: 0.8281precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+1.0
+0.9375
+0.967741935483871
+0.95
+precision, recall, F1, acc= 
+0.8421052631578947
+1.0
+0.9142857142857143
+0.85
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+
+ The epoch is 60, average recall: 0.9938, average precision: 0.9006,average F1: 0.9449, average accuracy: 0.9050, average AUC: 0.7719precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+
+ The epoch is 70, average recall: 0.9812, average precision: 0.8869,average F1: 0.9317, average accuracy: 0.8850, average AUC: 0.7406precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+1.0
+0.9375
+0.967741935483871
+0.95
+precision, recall, F1, acc= 
+1.0
+0.9375
+0.967741935483871
+0.95
+precision, recall, F1, acc= 
+1.0
+0.875
+0.9333333333333333
+0.9
+precision, recall, F1, acc= 
+1.0
+0.9375
+0.967741935483871
+0.95
+precision, recall, F1, acc= 
+1.0
+1.0
+1.0
+1.0
+precision, recall, F1, acc= 
+1.0
+1.0
+1.0
+1.0
+precision, recall, F1, acc= 
+1.0
+1.0
+1.0
+1.0
+precision, recall, F1, acc= 
+1.0
+1.0
+1.0
+1.0
+precision, recall, F1, acc= 
+0.8421052631578947
+1.0
+0.9142857142857143
+0.85
+
+ The epoch is 80, average recall: 0.9688, average precision: 0.9783,average F1: 0.9735, average accuracy: 0.9550, average AUC: 0.9344precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.9333333333333333
+0.875
+0.9032258064516129
+0.85
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+1.0
+1.0
+1.0
+1.0
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+1.0
+0.875
+0.9333333333333333
+0.9
+
+ The epoch is 90, average recall: 0.9750, average precision: 0.9365,average F1: 0.9553, average accuracy: 0.9250, average AUC: 0.8500precision, recall, F1, acc= 
+1.0
+0.8125
+0.896551724137931
+0.85
+precision, recall, F1, acc= 
+0.9285714285714286
+0.8125
+0.8666666666666666
+0.8
+precision, recall, F1, acc= 
+0.875
+0.875
+0.875
+0.8
+precision, recall, F1, acc= 
+0.8421052631578947
+1.0
+0.9142857142857143
+0.85
+precision, recall, F1, acc= 
+0.8333333333333334
+0.9375
+0.8823529411764706
+0.8
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.9375
+0.9375
+0.9375
+0.9
+precision, recall, F1, acc= 
+0.9333333333333333
+0.875
+0.9032258064516129
+0.85
+precision, recall, F1, acc= 
+0.9375
+0.9375
+0.9375
+0.9
+
+ The epoch is 100, average recall: 0.9125, average precision: 0.9059,average F1: 0.9092, average accuracy: 0.8500, average AUC: 0.7562precision, recall, F1, acc= 
+0.9375
+0.9375
+0.9375
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.8823529411764706
+0.9375
+0.9090909090909091
+0.85
+precision, recall, F1, acc= 
+1.0
+0.9375
+0.967741935483871
+0.95
+precision, recall, F1, acc= 
+0.8888888888888888
+1.0
+0.9411764705882353
+0.9
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95
+precision, recall, F1, acc= 
+1.0
+1.0
+1.0
+1.0
+precision, recall, F1, acc= 
+1.0
+1.0
+1.0
+1.0
+
+ The epoch is 110, average recall: 0.9812, average precision: 0.9369,average F1: 0.9586, average accuracy: 0.9300, average AUC: 0.8531precision, recall, F1, acc= 
+1.0
+1.0
+1.0
+1.0
+precision, recall, F1, acc= 
+0.9411764705882353
+1.0
+0.9696969696969697
+0.95

@@ -1,0 +1,340 @@
+Train Epoch: 1 [0/19 (0%)]	Train Loss: 0.078401
+Train Epoch: 1 [4/19 (21%)]	Train Loss: 0.078468
+Train Epoch: 1 [8/19 (42%)]	Train Loss: 0.141549
+Train Epoch: 1 [12/19 (63%)]	Train Loss: 0.128844
+Train Epoch: 1 [16/19 (84%)]	Train Loss: 0.137625
+
+Train set: Average loss: 0.1004, Accuracy: 68/76 (89%)
+
+Train Epoch: 2 [0/19 (0%)]	Train Loss: 0.079552
+Train Epoch: 2 [4/19 (21%)]	Train Loss: 0.078568
+Train Epoch: 2 [8/19 (42%)]	Train Loss: 0.078746
+Train Epoch: 2 [12/19 (63%)]	Train Loss: 0.129144
+Train Epoch: 2 [16/19 (84%)]	Train Loss: 0.128518
+
+Train set: Average loss: 0.1027, Accuracy: 68/76 (89%)
+
+Train Epoch: 3 [0/19 (0%)]	Train Loss: 0.131290
+Train Epoch: 3 [4/19 (21%)]	Train Loss: 0.078372
+Train Epoch: 3 [8/19 (42%)]	Train Loss: 0.082405
+Train Epoch: 3 [12/19 (63%)]	Train Loss: 0.131850
+Train Epoch: 3 [16/19 (84%)]	Train Loss: 0.131155
+
+Train set: Average loss: 0.1055, Accuracy: 68/76 (89%)
+
+Train Epoch: 4 [0/19 (0%)]	Train Loss: 0.079520
+Train Epoch: 4 [4/19 (21%)]	Train Loss: 0.078704
+Train Epoch: 4 [8/19 (42%)]	Train Loss: 0.124798
+Train Epoch: 4 [12/19 (63%)]	Train Loss: 0.086850
+Train Epoch: 4 [16/19 (84%)]	Train Loss: 0.081210
+
+Train set: Average loss: 0.1020, Accuracy: 68/76 (89%)
+
+Train Epoch: 5 [0/19 (0%)]	Train Loss: 0.137997
+Train Epoch: 5 [4/19 (21%)]	Train Loss: 0.078645
+Train Epoch: 5 [8/19 (42%)]	Train Loss: 0.138805
+Train Epoch: 5 [12/19 (63%)]	Train Loss: 0.078899
+Train Epoch: 5 [16/19 (84%)]	Train Loss: 0.079843
+
+Train set: Average loss: 0.1131, Accuracy: 65/76 (86%)
+
+Train Epoch: 6 [0/19 (0%)]	Train Loss: 0.078589
+Train Epoch: 6 [4/19 (21%)]	Train Loss: 0.135315
+Train Epoch: 6 [8/19 (42%)]	Train Loss: 0.195112
+Train Epoch: 6 [12/19 (63%)]	Train Loss: 0.078366
+Train Epoch: 6 [16/19 (84%)]	Train Loss: 0.198548
+
+Train set: Average loss: 0.1160, Accuracy: 64/76 (84%)
+
+Train Epoch: 7 [0/19 (0%)]	Train Loss: 0.143938
+Train Epoch: 7 [4/19 (21%)]	Train Loss: 0.078414
+Train Epoch: 7 [8/19 (42%)]	Train Loss: 0.141750
+Train Epoch: 7 [12/19 (63%)]	Train Loss: 0.078511
+Train Epoch: 7 [16/19 (84%)]	Train Loss: 0.144087
+
+Train set: Average loss: 0.1040, Accuracy: 68/76 (89%)
+
+Train Epoch: 8 [0/19 (0%)]	Train Loss: 0.200562
+Train Epoch: 8 [4/19 (21%)]	Train Loss: 0.078424
+Train Epoch: 8 [8/19 (42%)]	Train Loss: 0.134564
+Train Epoch: 8 [12/19 (63%)]	Train Loss: 0.078566
+Train Epoch: 8 [16/19 (84%)]	Train Loss: 0.135582
+
+Train set: Average loss: 0.1190, Accuracy: 63/76 (83%)
+
+Train Epoch: 9 [0/19 (0%)]	Train Loss: 0.133525
+Train Epoch: 9 [4/19 (21%)]	Train Loss: 0.141505
+Train Epoch: 9 [8/19 (42%)]	Train Loss: 0.135994
+Train Epoch: 9 [12/19 (63%)]	Train Loss: 0.078409
+Train Epoch: 9 [16/19 (84%)]	Train Loss: 0.078631
+
+Train set: Average loss: 0.1095, Accuracy: 65/76 (86%)
+
+Train Epoch: 10 [0/19 (0%)]	Train Loss: 0.134309
+Train Epoch: 10 [4/19 (21%)]	Train Loss: 0.078512
+Train Epoch: 10 [8/19 (42%)]	Train Loss: 0.123425
+Train Epoch: 10 [12/19 (63%)]	Train Loss: 0.126369
+Train Epoch: 10 [16/19 (84%)]	Train Loss: 0.078580
+
+Train set: Average loss: 0.1113, Accuracy: 67/76 (88%)
+
+Train Epoch: 11 [0/19 (0%)]	Train Loss: 0.139920
+Train Epoch: 11 [4/19 (21%)]	Train Loss: 0.080146
+Train Epoch: 11 [8/19 (42%)]	Train Loss: 0.086010
+Train Epoch: 11 [12/19 (63%)]	Train Loss: 0.078688
+Train Epoch: 11 [16/19 (84%)]	Train Loss: 0.137859
+
+Train set: Average loss: 0.1122, Accuracy: 66/76 (87%)
+
+Train Epoch: 12 [0/19 (0%)]	Train Loss: 0.078414
+Train Epoch: 12 [4/19 (21%)]	Train Loss: 0.131470
+Train Epoch: 12 [8/19 (42%)]	Train Loss: 0.078458
+Train Epoch: 12 [12/19 (63%)]	Train Loss: 0.082161
+Train Epoch: 12 [16/19 (84%)]	Train Loss: 0.131413
+
+Train set: Average loss: 0.1107, Accuracy: 66/76 (87%)
+
+Train Epoch: 13 [0/19 (0%)]	Train Loss: 0.078680
+Train Epoch: 13 [4/19 (21%)]	Train Loss: 0.126920
+Train Epoch: 13 [8/19 (42%)]	Train Loss: 0.133210
+Train Epoch: 13 [12/19 (63%)]	Train Loss: 0.079052
+Train Epoch: 13 [16/19 (84%)]	Train Loss: 0.078417
+
+Train set: Average loss: 0.1154, Accuracy: 65/76 (86%)
+
+Train Epoch: 14 [0/19 (0%)]	Train Loss: 0.078602
+Train Epoch: 14 [4/19 (21%)]	Train Loss: 0.132812
+Train Epoch: 14 [8/19 (42%)]	Train Loss: 0.078409
+Train Epoch: 14 [12/19 (63%)]	Train Loss: 0.078842
+Train Epoch: 14 [16/19 (84%)]	Train Loss: 0.202514
+
+Train set: Average loss: 0.1063, Accuracy: 67/76 (88%)
+
+Train Epoch: 15 [0/19 (0%)]	Train Loss: 0.118444
+Train Epoch: 15 [4/19 (21%)]	Train Loss: 0.082316
+Train Epoch: 15 [8/19 (42%)]	Train Loss: 0.080245
+Train Epoch: 15 [12/19 (63%)]	Train Loss: 0.078491
+Train Epoch: 15 [16/19 (84%)]	Train Loss: 0.140777
+
+Train set: Average loss: 0.1272, Accuracy: 60/76 (79%)
+
+Train Epoch: 16 [0/19 (0%)]	Train Loss: 0.139293
+Train Epoch: 16 [4/19 (21%)]	Train Loss: 0.078728
+Train Epoch: 16 [8/19 (42%)]	Train Loss: 0.168473
+Train Epoch: 16 [12/19 (63%)]	Train Loss: 0.127060
+Train Epoch: 16 [16/19 (84%)]	Train Loss: 0.127457
+
+Train set: Average loss: 0.1063, Accuracy: 66/76 (87%)
+
+Train Epoch: 17 [0/19 (0%)]	Train Loss: 0.078415
+Train Epoch: 17 [4/19 (21%)]	Train Loss: 0.133603
+Train Epoch: 17 [8/19 (42%)]	Train Loss: 0.130041
+Train Epoch: 17 [12/19 (63%)]	Train Loss: 0.140312
+Train Epoch: 17 [16/19 (84%)]	Train Loss: 0.078478
+
+Train set: Average loss: 0.1060, Accuracy: 66/76 (87%)
+
+Train Epoch: 18 [0/19 (0%)]	Train Loss: 0.079230
+Train Epoch: 18 [4/19 (21%)]	Train Loss: 0.136205
+Train Epoch: 18 [8/19 (42%)]	Train Loss: 0.140848
+Train Epoch: 18 [12/19 (63%)]	Train Loss: 0.079462
+Train Epoch: 18 [16/19 (84%)]	Train Loss: 0.129468
+
+Train set: Average loss: 0.1182, Accuracy: 65/76 (86%)
+
+Train Epoch: 19 [0/19 (0%)]	Train Loss: 0.131410
+Train Epoch: 19 [4/19 (21%)]	Train Loss: 0.142437
+Train Epoch: 19 [8/19 (42%)]	Train Loss: 0.202484
+Train Epoch: 19 [12/19 (63%)]	Train Loss: 0.130768
+Train Epoch: 19 [16/19 (84%)]	Train Loss: 0.079818
+
+Train set: Average loss: 0.1249, Accuracy: 61/76 (80%)
+
+Train Epoch: 20 [0/19 (0%)]	Train Loss: 0.136211
+Train Epoch: 20 [4/19 (21%)]	Train Loss: 0.128910
+Train Epoch: 20 [8/19 (42%)]	Train Loss: 0.078659
+Train Epoch: 20 [12/19 (63%)]	Train Loss: 0.172404
+Train Epoch: 20 [16/19 (84%)]	Train Loss: 0.078475
+
+Train set: Average loss: 0.1193, Accuracy: 63/76 (83%)
+
+Train Epoch: 21 [0/19 (0%)]	Train Loss: 0.133420
+Train Epoch: 21 [4/19 (21%)]	Train Loss: 0.078550
+Train Epoch: 21 [8/19 (42%)]	Train Loss: 0.131453
+Train Epoch: 21 [12/19 (63%)]	Train Loss: 0.078483
+Train Epoch: 21 [16/19 (84%)]	Train Loss: 0.130216
+
+Train set: Average loss: 0.1165, Accuracy: 63/76 (83%)
+
+Train Epoch: 22 [0/19 (0%)]	Train Loss: 0.078517
+Train Epoch: 22 [4/19 (21%)]	Train Loss: 0.078750
+Train Epoch: 22 [8/19 (42%)]	Train Loss: 0.078589
+Train Epoch: 22 [12/19 (63%)]	Train Loss: 0.133346
+Train Epoch: 22 [16/19 (84%)]	Train Loss: 0.138033
+
+Train set: Average loss: 0.1106, Accuracy: 65/76 (86%)
+
+Train Epoch: 23 [0/19 (0%)]	Train Loss: 0.081708
+Train Epoch: 23 [4/19 (21%)]	Train Loss: 0.078487
+Train Epoch: 23 [8/19 (42%)]	Train Loss: 0.078614
+Train Epoch: 23 [12/19 (63%)]	Train Loss: 0.127345
+Train Epoch: 23 [16/19 (84%)]	Train Loss: 0.190691
+
+Train set: Average loss: 0.1229, Accuracy: 61/76 (80%)
+
+Train Epoch: 24 [0/19 (0%)]	Train Loss: 0.128101
+Train Epoch: 24 [4/19 (21%)]	Train Loss: 0.134991
+Train Epoch: 24 [8/19 (42%)]	Train Loss: 0.078606
+Train Epoch: 24 [12/19 (63%)]	Train Loss: 0.124521
+Train Epoch: 24 [16/19 (84%)]	Train Loss: 0.138090
+
+Train set: Average loss: 0.1169, Accuracy: 63/76 (83%)
+
+Train Epoch: 25 [0/19 (0%)]	Train Loss: 0.081580
+Train Epoch: 25 [4/19 (21%)]	Train Loss: 0.142950
+Train Epoch: 25 [8/19 (42%)]	Train Loss: 0.079404
+Train Epoch: 25 [12/19 (63%)]	Train Loss: 0.078573
+Train Epoch: 25 [16/19 (84%)]	Train Loss: 0.080061
+
+Train set: Average loss: 0.1072, Accuracy: 67/76 (88%)
+
+Train Epoch: 26 [0/19 (0%)]	Train Loss: 0.094593
+Train Epoch: 26 [4/19 (21%)]	Train Loss: 0.139563
+Train Epoch: 26 [8/19 (42%)]	Train Loss: 0.080259
+Train Epoch: 26 [12/19 (63%)]	Train Loss: 0.078645
+Train Epoch: 26 [16/19 (84%)]	Train Loss: 0.126721
+
+Train set: Average loss: 0.1243, Accuracy: 62/76 (82%)
+
+Train Epoch: 27 [0/19 (0%)]	Train Loss: 0.130791
+Train Epoch: 27 [4/19 (21%)]	Train Loss: 0.132253
+Train Epoch: 27 [8/19 (42%)]	Train Loss: 0.137727
+Train Epoch: 27 [12/19 (63%)]	Train Loss: 0.129913
+Train Epoch: 27 [16/19 (84%)]	Train Loss: 0.138305
+
+Train set: Average loss: 0.1123, Accuracy: 67/76 (88%)
+
+Train Epoch: 28 [0/19 (0%)]	Train Loss: 0.078789
+Train Epoch: 28 [4/19 (21%)]	Train Loss: 0.139708
+Train Epoch: 28 [8/19 (42%)]	Train Loss: 0.079371
+Train Epoch: 28 [12/19 (63%)]	Train Loss: 0.128103
+Train Epoch: 28 [16/19 (84%)]	Train Loss: 0.131082
+
+Train set: Average loss: 0.1135, Accuracy: 65/76 (86%)
+
+Train Epoch: 29 [0/19 (0%)]	Train Loss: 0.132098
+Train Epoch: 29 [4/19 (21%)]	Train Loss: 0.137942
+Train Epoch: 29 [8/19 (42%)]	Train Loss: 0.078423
+Train Epoch: 29 [12/19 (63%)]	Train Loss: 0.079794
+Train Epoch: 29 [16/19 (84%)]	Train Loss: 0.084021
+
+Train set: Average loss: 0.1118, Accuracy: 65/76 (86%)
+
+Train Epoch: 30 [0/19 (0%)]	Train Loss: 0.078717
+Train Epoch: 30 [4/19 (21%)]	Train Loss: 0.141397
+Train Epoch: 30 [8/19 (42%)]	Train Loss: 0.128370
+Train Epoch: 30 [12/19 (63%)]	Train Loss: 0.125126
+Train Epoch: 30 [16/19 (84%)]	Train Loss: 0.137358
+
+Train set: Average loss: 0.1061, Accuracy: 66/76 (87%)
+
+Train Epoch: 31 [0/19 (0%)]	Train Loss: 0.132724
+Train Epoch: 31 [4/19 (21%)]	Train Loss: 0.129389
+Train Epoch: 31 [8/19 (42%)]	Train Loss: 0.079649
+Train Epoch: 31 [12/19 (63%)]	Train Loss: 0.130142
+Train Epoch: 31 [16/19 (84%)]	Train Loss: 0.078474
+
+Train set: Average loss: 0.1223, Accuracy: 63/76 (83%)
+
+Train Epoch: 32 [0/19 (0%)]	Train Loss: 0.079103
+Train Epoch: 32 [4/19 (21%)]	Train Loss: 0.079946
+Train Epoch: 32 [8/19 (42%)]	Train Loss: 0.139617
+Train Epoch: 32 [12/19 (63%)]	Train Loss: 0.081434
+Train Epoch: 32 [16/19 (84%)]	Train Loss: 0.136491
+
+Train set: Average loss: 0.1128, Accuracy: 65/76 (86%)
+
+Train Epoch: 33 [0/19 (0%)]	Train Loss: 0.134773
+Train Epoch: 33 [4/19 (21%)]	Train Loss: 0.140528
+Train Epoch: 33 [8/19 (42%)]	Train Loss: 0.135365
+Train Epoch: 33 [12/19 (63%)]	Train Loss: 0.079283
+Train Epoch: 33 [16/19 (84%)]	Train Loss: 0.133888
+
+Train set: Average loss: 0.1188, Accuracy: 64/76 (84%)
+
+Train Epoch: 34 [0/19 (0%)]	Train Loss: 0.137497
+Train Epoch: 34 [4/19 (21%)]	Train Loss: 0.137878
+Train Epoch: 34 [8/19 (42%)]	Train Loss: 0.078595
+Train Epoch: 34 [12/19 (63%)]	Train Loss: 0.078898
+Train Epoch: 34 [16/19 (84%)]	Train Loss: 0.078482
+
+Train set: Average loss: 0.1169, Accuracy: 64/76 (84%)
+
+Train Epoch: 35 [0/19 (0%)]	Train Loss: 0.132848
+Train Epoch: 35 [4/19 (21%)]	Train Loss: 0.078674
+Train Epoch: 35 [8/19 (42%)]	Train Loss: 0.134045
+Train Epoch: 35 [12/19 (63%)]	Train Loss: 0.118128
+Train Epoch: 35 [16/19 (84%)]	Train Loss: 0.141149
+
+Train set: Average loss: 0.1078, Accuracy: 68/76 (89%)
+
+Train Epoch: 36 [0/19 (0%)]	Train Loss: 0.140662
+Train Epoch: 36 [4/19 (21%)]	Train Loss: 0.081676
+Train Epoch: 36 [8/19 (42%)]	Train Loss: 0.079132
+Train Epoch: 36 [12/19 (63%)]	Train Loss: 0.134898
+Train Epoch: 36 [16/19 (84%)]	Train Loss: 0.187006
+
+Train set: Average loss: 0.1212, Accuracy: 63/76 (83%)
+
+Train Epoch: 37 [0/19 (0%)]	Train Loss: 0.079458
+Train Epoch: 37 [4/19 (21%)]	Train Loss: 0.139747
+Train Epoch: 37 [8/19 (42%)]	Train Loss: 0.140968
+Train Epoch: 37 [12/19 (63%)]	Train Loss: 0.079744
+Train Epoch: 37 [16/19 (84%)]	Train Loss: 0.140100
+
+Train set: Average loss: 0.1259, Accuracy: 59/76 (78%)
+
+Train Epoch: 38 [0/19 (0%)]	Train Loss: 0.137468
+Train Epoch: 38 [4/19 (21%)]	Train Loss: 0.078587
+Train Epoch: 38 [8/19 (42%)]	Train Loss: 0.079734
+Train Epoch: 38 [12/19 (63%)]	Train Loss: 0.078460
+Train Epoch: 38 [16/19 (84%)]	Train Loss: 0.135614
+
+Train set: Average loss: 0.1201, Accuracy: 62/76 (82%)
+
+Train Epoch: 39 [0/19 (0%)]	Train Loss: 0.078442
+Train Epoch: 39 [4/19 (21%)]	Train Loss: 0.085221
+Train Epoch: 39 [8/19 (42%)]	Train Loss: 0.207529
+Train Epoch: 39 [12/19 (63%)]	Train Loss: 0.141947
+Train Epoch: 39 [16/19 (84%)]	Train Loss: 0.126153
+
+Train set: Average loss: 0.1193, Accuracy: 63/76 (83%)
+
+Train Epoch: 40 [0/19 (0%)]	Train Loss: 0.136310
+Train Epoch: 40 [4/19 (21%)]	Train Loss: 0.131165
+Train Epoch: 40 [8/19 (42%)]	Train Loss: 0.080623
+Train Epoch: 40 [12/19 (63%)]	Train Loss: 0.078620
+Train Epoch: 40 [16/19 (84%)]	Train Loss: 0.138597
+
+Train set: Average loss: 0.1229, Accuracy: 60/76 (79%)
+
+Train Epoch: 41 [0/19 (0%)]	Train Loss: 0.137296
+Train Epoch: 41 [4/19 (21%)]	Train Loss: 0.080990
+Train Epoch: 41 [8/19 (42%)]	Train Loss: 0.124464
+Train Epoch: 41 [12/19 (63%)]	Train Loss: 0.133532
+Train Epoch: 41 [16/19 (84%)]	Train Loss: 0.125148
+
+Train set: Average loss: 0.1193, Accuracy: 63/76 (83%)
+
+Train Epoch: 42 [0/19 (0%)]	Train Loss: 0.131774
+Train Epoch: 42 [4/19 (21%)]	Train Loss: 0.127884
+Train Epoch: 42 [8/19 (42%)]	Train Loss: 0.078934
+Train Epoch: 42 [12/19 (63%)]	Train Loss: 0.079648
+Train Epoch: 42 [16/19 (84%)]	Train Loss: 0.134234
+
+Train set: Average loss: 0.1076, Accuracy: 65/76 (86%)
+
+Train Epoch: 43 [0/19 (0%)]	Train Loss: 0.082399
+Train Epoch: 43 [4/19 (21%)]	Train Loss: 0.078580
+Train Epoch: 43 [8/19 (42%)]	Train Loss: 0.080129
+Train Epoch: 43 [12/19 (63%)]	Train Loss: 0.078745
