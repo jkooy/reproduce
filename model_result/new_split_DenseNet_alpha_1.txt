@@ -1,0 +1,8 @@
+
+ The epoch is 10, average recall: 0.5333, average precision: 0.4931,average F1: 0.5124, average accuracy: 0.7810, average AUC: 0.6909
+ The epoch is 20, average recall: 0.7667, average precision: 0.5936,average F1: 0.6691, average accuracy: 0.8381, average AUC: 0.8121
+ The epoch is 30, average recall: 0.8111, average precision: 0.6761,average F1: 0.7375, average accuracy: 0.8690, average AUC: 0.8480
+ The epoch is 40, average recall: 0.6889, average precision: 0.6773,average F1: 0.6830, average accuracy: 0.8690, average AUC: 0.8035
+ The epoch is 50, average recall: 0.7444, average precision: 0.7142,average F1: 0.7290, average accuracy: 0.8762, average AUC: 0.8283
+ The epoch is 60, average recall: 0.6889, average precision: 0.6026,average F1: 0.6428, average accuracy: 0.8476, average AUC: 0.7899
+ The epoch is 10, average recall: 0.7111, average precision: 0.6062,average F1: 0.6545, average accuracy: 0.8357, average AUC: 0.7904
